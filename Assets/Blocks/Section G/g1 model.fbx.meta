@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 8d20766bc1350db4f85dc5ab887c3ac7
+timeCreated: 1522194804
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: white
+    2100002: roofsmall
+    2100004: lambert17
+    2100006: door5
+    2100008: lambert19
+    2100010: lambert4
+    2100012: lambert18
+    2100014: brick05
+    2100016: lambert24
+    2100018: lambert25
+    2100020: brick04
+    2100022: brick06
+    2100024: pasted__roofsmall
+    2100026: lambert21
+    2100028: lambert16
+    2100030: lambert10
+    2100032: lambert12
+    2100034: lambert13
+    2100036: lambert14
+    2100038: lambert3
+    2100040: lambert22
+    2100042: brick02
+    2100044: brick03
+    2100046: Default_Material
+    2100048: lambert1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: polySurface225
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: (CONCRETE 12) floor tile granite wall smooth dirt pillar texture
+    second: {fileID: 2800000, guid: be65beb8b4759aa4f986bf49b599f6ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 000
+    second: {fileID: 2800000, guid: 454b6c0ff5bc62349a0e1435a5bdba09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1280px-Solna_Brick_wall_Stretcher_bond_variation1
+    second: {fileID: 2800000, guid: e0d75b3e8f2c7994184c1bd3b43dba48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 201door
+    second: {fileID: 2800000, guid: 926126cda82edb44bbc2401bb54d880d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled-1
+    second: {fileID: 2800000, guid: b42c016dbee48304c8a986b112ca3ae9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brant
+    second: {fileID: 2800000, guid: d8ae7f48d9d89f04d905cb5a7ec9d27c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: front window pattern
+    second: {fileID: 2800000, guid: 657d13b59755389489ac925d43e0506b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fst_571h24wnsgt
+    second: {fileID: 2800000, guid: a2d3afdc3c4794342b8e094c79dd8b37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: k010
+    second: {fileID: 2800000, guid: 1f52c260b4419df4e927f831e15658f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: low glass
+    second: {fileID: 2800000, guid: 6407214535f3bb2448399423d13bfd94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof02
+    second: {fileID: 2800000, guid: 4ae30f36c1c606e41afa1ad62fa26474, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

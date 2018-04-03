@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: d3102a94a4e821d4c94c005950eee82c
+timeCreated: 1522194856
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: brick
+    2100002: concrete
+    2100004: roof
+    2100006: white
+    2100008: roof2
+    2100010: rust2
+    2100012: rust
+    2100014: siding
+    2100016: window
+    2100018: door
+    2100020: blackmetal2
+    2100022: glass2
+    2100024: GreenConcrete
+    2100026: pipe
+    2100028: window2
+    2100030: shutter
+    2100032: topgrate
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCube769
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BrickLargeBlocks0016_1_S
+    second: {fileID: 2800000, guid: 110859389111d7f4d97ce8f4a6170f52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BrickLargeBrown0041_34_S
+    second: {fileID: 2800000, guid: b8986d20a93cc4e48b4744426b4923a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ConcreteBare0182_1_M
+    second: {fileID: 2800000, guid: 2de86a8cb95c80c42bf73a612fff42bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalPlatesPainted0014_5_L
+    second: {fileID: 2800000, guid: 001bdcacb715d054c8d98f5b24a9ea7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalRollup0070_1_M
+    second: {fileID: 2800000, guid: b6a7f37b22a3d7447aabce506e736853, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalRusted0024_4_S
+    second: {fileID: 2800000, guid: 5b24f069fb011dc49bd5a56b7c510fcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalRusted0043_2_S
+    second: {fileID: 2800000, guid: e5ea6357d31ced34d840ef8daeb2bbab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodPlanksPainted0270_L
+    second: {fileID: 2800000, guid: 7ac451a7f20d4054997d11048b1ef96c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blackmetal
+    second: {fileID: 2800000, guid: aa65b673734756b41b721fe95f8583ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2800000, guid: 755ac5c41819825478d910b1cc897f91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rooftile
+    second: {fileID: 2800000, guid: d280d1b72b56db9488e630bf7d032a94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shutters
+    second: {fileID: 2800000, guid: 964480fad323a6e439f2e89b997955cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weatheredconcrete3
+    second: {fileID: 2800000, guid: 3cafd1b6304fdbc49ac8f444e4d4f5f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2800000, guid: 2a4ff0e82ed1224499266fb1728946ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: window
+    second: {fileID: 2800000, guid: 96315388e4cf8204fb4e8f9a64efe68b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: window2
+    second: {fileID: 2800000, guid: 13515d9077775b641a072d07be7ef822, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
